@@ -1,0 +1,26 @@
+C:\Users\Jay Suthar\AppData\Local\Temporary Projects\Arduino-Serial-Text\bin\Debug\Arduino-Serial-Text.exe.config
+C:\Users\Jay Suthar\AppData\Local\Temporary Projects\Arduino-Serial-Text\bin\Debug\Arduino-Serial-Text.exe
+C:\Users\Jay Suthar\AppData\Local\Temporary Projects\Arduino-Serial-Text\bin\Debug\Arduino-Serial-Text.pdb
+C:\Users\Jay Suthar\AppData\Local\Temporary Projects\Arduino-Serial-Text\bin\Debug\Arduino-Serial-Text.xml
+C:\Users\Jay Suthar\AppData\Local\Temporary Projects\Arduino-Serial-Text\obj\Debug\Arduino-Serial-Text.vbprojResolveAssemblyReference.cache
+C:\Users\Jay Suthar\AppData\Local\Temporary Projects\Arduino-Serial-Text\obj\Debug\Arduino_Serial_Text.Form1.resources
+C:\Users\Jay Suthar\AppData\Local\Temporary Projects\Arduino-Serial-Text\obj\Debug\Arduino_Serial_Text.Resources.resources
+C:\Users\Jay Suthar\AppData\Local\Temporary Projects\Arduino-Serial-Text\obj\Debug\Arduino-Serial-Text.vbproj.GenerateResource.cache
+C:\Users\Jay Suthar\AppData\Local\Temporary Projects\Arduino-Serial-Text\obj\Debug\Arduino-Serial-Text.vbproj.CoreCompileInputs.cache
+C:\Users\Jay Suthar\AppData\Local\Temporary Projects\Arduino-Serial-Text\obj\Debug\Arduino-Serial-Text.exe
+C:\Users\Jay Suthar\AppData\Local\Temporary Projects\Arduino-Serial-Text\obj\Debug\Arduino-Serial-Text.xml
+C:\Users\Jay Suthar\AppData\Local\Temporary Projects\Arduino-Serial-Text\obj\Debug\Arduino-Serial-Text.pdb
+C:\Users\Jay Suthar\Desktop\Coding_trial\vb\Arduino-Serial-Text\Arduino-Serial-Text\bin\Debug\Arduino-Serial-Text.exe.config
+C:\Users\Jay Suthar\Desktop\Coding_trial\vb\Arduino-Serial-Text\Arduino-Serial-Text\bin\Debug\Arduino-Serial-Text.exe
+C:\Users\Jay Suthar\Desktop\Coding_trial\vb\Arduino-Serial-Text\Arduino-Serial-Text\bin\Debug\Arduino-Serial-Text.pdb
+C:\Users\Jay Suthar\Desktop\Coding_trial\vb\Arduino-Serial-Text\Arduino-Serial-Text\bin\Debug\Arduino-Serial-Text.xml
+C:\Users\Jay Suthar\Desktop\Coding_trial\vb\Arduino-Serial-Text\Arduino-Serial-Text\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Jay Suthar\Desktop\Coding_trial\vb\Arduino-Serial-Text\Arduino-Serial-Text\obj\Debug\Arduino-Serial-Text.vbprojResolveAssemblyReference.cache
+C:\Users\Jay Suthar\Desktop\Coding_trial\vb\Arduino-Serial-Text\Arduino-Serial-Text\obj\Debug\Arduino_Serial_Text.Form1.resources
+C:\Users\Jay Suthar\Desktop\Coding_trial\vb\Arduino-Serial-Text\Arduino-Serial-Text\obj\Debug\Arduino_Serial_Text.Resources.resources
+C:\Users\Jay Suthar\Desktop\Coding_trial\vb\Arduino-Serial-Text\Arduino-Serial-Text\obj\Debug\Arduino-Serial-Text.vbproj.GenerateResource.cache
+C:\Users\Jay Suthar\Desktop\Coding_trial\vb\Arduino-Serial-Text\Arduino-Serial-Text\obj\Debug\Arduino-Serial-Text.vbproj.CoreCompileInputs.cache
+C:\Users\Jay Suthar\Desktop\Coding_trial\vb\Arduino-Serial-Text\Arduino-Serial-Text\obj\Debug\Arduino-Serial-Text.vbproj.CopyComplete
+C:\Users\Jay Suthar\Desktop\Coding_trial\vb\Arduino-Serial-Text\Arduino-Serial-Text\obj\Debug\Arduino-Serial-Text.exe
+C:\Users\Jay Suthar\Desktop\Coding_trial\vb\Arduino-Serial-Text\Arduino-Serial-Text\obj\Debug\Arduino-Serial-Text.xml
+C:\Users\Jay Suthar\Desktop\Coding_trial\vb\Arduino-Serial-Text\Arduino-Serial-Text\obj\Debug\Arduino-Serial-Text.pdb
